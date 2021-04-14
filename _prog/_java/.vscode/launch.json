@@ -1,0 +1,237 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exercises04",
+            "request": "launch",
+            "mainClass": "exercises04",
+            "projectName": "_java_4b99753f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestPeople",
+            "request": "launch",
+            "mainClass": "eXcript.TestPeople",
+            "projectName": "_java_4b99753f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaPessoa",
+            "request": "launch",
+            "mainClass": "eXcript.TestaPessoa",
+            "projectName": "_java_4b99753f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exercise03",
+            "request": "launch",
+            "mainClass": "exercise03",
+            "projectName": "_java_4b99753f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaConta",
+            "request": "launch",
+            "mainClass": "TestaConta",
+            "projectName": "_java_4b99753f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aula04",
+            "request": "launch",
+            "mainClass": "Aula04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aula03",
+            "request": "launch",
+            "mainClass": "Aula03"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aula02",
+            "request": "launch",
+            "mainClass": "Aula02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aula01",
+            "request": "launch",
+            "mainClass": "Aula01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Construtor",
+            "request": "launch",
+            "mainClass": "Construtor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Recursividade",
+            "request": "launch",
+            "mainClass": "Recursividade"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OverLoading",
+            "request": "launch",
+            "mainClass": "OverLoading"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Retangulo",
+            "request": "launch",
+            "mainClass": "Retangulo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Argumento_Parm",
+            "request": "launch",
+            "mainClass": "Argumento_Parm"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Metodo",
+            "request": "launch",
+            "mainClass": "Metodo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop07",
+            "request": "launch",
+            "mainClass": "loop07"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop06",
+            "request": "launch",
+            "mainClass": "loop06"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop05",
+            "request": "launch",
+            "mainClass": "loop05"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop04",
+            "request": "launch",
+            "mainClass": "loop04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop03",
+            "request": "launch",
+            "mainClass": "loop03"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop02",
+            "request": "launch",
+            "mainClass": "loop02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - loop01",
+            "request": "launch",
+            "mainClass": "loop01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula12",
+            "request": "launch",
+            "mainClass": "aula12"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula11",
+            "request": "launch",
+            "mainClass": "aula11"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula10",
+            "request": "launch",
+            "mainClass": "aula10"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula09",
+            "request": "launch",
+            "mainClass": "aula09"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - teste",
+            "request": "launch",
+            "mainClass": "teste"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exercise02",
+            "request": "launch",
+            "mainClass": "exercise02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - exercise01",
+            "request": "launch",
+            "mainClass": "exercise01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula08",
+            "request": "launch",
+            "mainClass": "aula08"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula07",
+            "request": "launch",
+            "mainClass": "aula07"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula06",
+            "request": "launch",
+            "mainClass": "aula06"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula05",
+            "request": "launch",
+            "mainClass": "aula05"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula04",
+            "request": "launch",
+            "mainClass": "aula04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula03",
+            "request": "launch",
+            "mainClass": "aula03"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula02",
+            "request": "launch",
+            "mainClass": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - aula01",
+            "request": "launch",
+            "mainClass": "aula01"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntStreamOperations",
+            "request": "launch",
+            "mainClass": "IntStreamOperations",
+            "projectName": "_lambda_bda99592"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Runable",
+            "request": "launch",
+            "mainClass": "Runable",
+            "projectName": "_lambda_bda99592"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Runnable",
+            "request": "launch",
+            "mainClass": "Runnable",
+            "projectName": "_lambda_bda99592"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lambda02",
+            "request": "launch",
+            "mainClass": "Lambda02",
+            "projectName": "_lambda_bda99592"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lambda01",
+            "request": "launch",
+            "mainClass": "Lambda01",
+            "projectName": "_lambda_bda99592"
+        }
+    ]
+}

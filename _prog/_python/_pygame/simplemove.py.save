@@ -1,0 +1,25 @@
+import sys, pygame
+from pygame.locals import *
+
+pygame.init()
+
+screen = pygame.display.set_mode((500, 400))
+pygame.display.set_caption('Simple Move')
+
+img = pygame.image.load('bola.png')
+
+x  = 0
+fundo = (255, 255, 255)
+
+while True:
+	for e in pygame.event.get():
+		if e.type == QUIT:
+			pygame.quit()
+		
+
+	sys.exit()
+
+	pygame.display.update()
+	pygame.display.flip()
+
+

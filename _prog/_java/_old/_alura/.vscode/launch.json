@@ -1,0 +1,151 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UsingException2",
+            "request": "launch",
+            "mainClass": "UsingException2",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UsingException",
+            "request": "launch",
+            "mainClass": "UsingException",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TratamentoErro",
+            "request": "launch",
+            "mainClass": "TratamentoErro",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Relogio",
+            "request": "launch",
+            "mainClass": "Relogio",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Idade",
+            "request": "launch",
+            "mainClass": "Idade",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Data",
+            "request": "launch",
+            "mainClass": "Data",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Bissexto",
+            "request": "launch",
+            "mainClass": "Bissexto",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaInterface",
+            "request": "launch",
+            "mainClass": "TestaInterface",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaGerente",
+            "request": "launch",
+            "mainClass": "TestaGerente",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaPorta",
+            "request": "launch",
+            "mainClass": "TestaPorta",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaPessoa",
+            "request": "launch",
+            "mainClass": "TestaPessoa",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FibonacciSequency",
+            "request": "launch",
+            "mainClass": "FibonacciSequency",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaConta",
+            "request": "launch",
+            "mainClass": "TestaConta",
+            "projectName": "_alura_6acc59c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaConta",
+            "request": "launch",
+            "mainClass": "TestaConta",
+            "projectName": "_alura_fe1dff2a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaCarro",
+            "request": "launch",
+            "mainClass": "TestaCarro",
+            "projectName": "_alura_fe1dff2a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Programa3",
+            "request": "launch",
+            "mainClass": "Programa3",
+            "projectName": "_alura_fe1dff2a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Programa2",
+            "request": "launch",
+            "mainClass": "Programa2",
+            "projectName": "_alura_fe1dff2a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Programa",
+            "request": "launch",
+            "mainClass": "Programa",
+            "projectName": "_alura_fe1dff2a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ifTest",
+            "request": "launch",
+            "mainClass": "ifTest",
+            "projectName": "_alura_fe1dff2a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - charTest",
+            "request": "launch",
+            "mainClass": "charTest",
+            "projectName": "_alura_fe1dff2a"
+        }
+    ]
+}

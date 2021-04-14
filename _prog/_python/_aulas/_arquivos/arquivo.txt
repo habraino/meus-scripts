@@ -1,0 +1,7 @@
+teclado
+telefone
+mouse
+computador
+gabinete
+hacker
+python
